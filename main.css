@@ -1,4 +1,29 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 #assignment-instructions {
     color: darkcyan;
     font-family: sans-serif;
 }
+
+.diferent code {
+    color: green;
+    font-weight: bold;
+}
+
+code {
+    color: red;
+    font-family: monospace;
+}
+
+li {
+    font-family: inherit;
+}
+
+ol li {
+    background-color: black;
+    color: white;
+}
+
+
